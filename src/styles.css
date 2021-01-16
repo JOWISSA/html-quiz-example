@@ -1,0 +1,22 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="checkbox"] {
+  width: 20px;
+  height:  20px;
+}
+
+input[type="checkbox"] + label {
+  font-size: 16px;
+}
+
+#scale {
+  width: 0%;
+  transition: 1s;
+  border-radius: 4px;
+}
+
+.question-result {
+  padding: 10px;
+}
